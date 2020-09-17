@@ -1,0 +1,24 @@
+# Build results
+build
+lib
+dist
+
+# Direnv config.
+.envrc
+.direnv
+.direnv.d
+
+# Mac OS X
+.DS_Store
+npm-debug.log
+
+# NPM
+node_modules
+
+# Sublime Text
+*.sublime-*
+
+# Visual Studio Code
+.vscode
+*.code-workspace
+*/.vs/
